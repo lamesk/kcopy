@@ -1,0 +1,13 @@
+{
+  "$id": "6869991156789125069",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "yext/answer": "Nein, Sie müssen Ihre Firmen\\- und Produktdaten lediglich einmal in die übersichtliche KytoSync\\-Eingabemaske eingeben. Wir synchronisieren diese anschließend mit allen Verzeichnissen. Ihr Verwaltungsaufwand wird somit minimiert.",
+    "yext/name": "Muss ich meine Daten in alle Plattformen separat eingeben?",
+    "yext/question": "Muss ich meine Daten in alle Plattformen separat eingeben?"
+  },
+  "entityType": "yext/faq",
+  "folder": "yext/root",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "3375966514233696003",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "yext/answer": "Die Abrechnung erfolgt auf jährlicher Basis. Zeitpunkt der Rechnungsstellung ist nach Erbringung der ersten Leistungen. Für eine monatliche Abrechnung können Sie uns gerne kontaktieren.",
+    "yext/name": "Erfolgt die Abrechnung monatlich oder jährlich?",
+    "yext/question": "Erfolgt die Abrechnung monatlich oder jährlich?"
+  },
+  "entityType": "yext/faq",
+  "folder": "yext/root",
+  "labels": []
+}

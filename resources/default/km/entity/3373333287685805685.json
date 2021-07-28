@@ -1,0 +1,13 @@
+{
+  "$id": "3373333287685805685",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "yext/answer": "Wir bündeln Ihre Kundenanfragen und helfen Ihnen somit, den Überblick zu behalten. Alle relevanten E\\-Mails finden Sie in Ihrem Kundenkonto bei Kyto vor. Weiterhin können Sie eine E\\-Mail\\-Weiterleitung einstellen, sodass Sie keine Kundenanfrage verpassen.",
+    "yext/name": "Wie können mich Kunden, die mich über eine Plattform gefunden haben, kontaktieren?",
+    "yext/question": "Wie können mich Kunden, die mich über eine Plattform gefunden haben, kontaktieren?"
+  },
+  "entityType": "yext/faq",
+  "folder": "yext/root",
+  "labels": []
+}

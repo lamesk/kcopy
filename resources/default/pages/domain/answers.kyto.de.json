@@ -1,0 +1,10 @@
+{
+  "$id": "answers.kyto.de",
+  "$schema": "https://schema.yext.com/config/pages/domain/v1",
+  "domainName": "answers.kyto.de",
+  "autoGenerateSitemap": true,
+  "domainAccess": false,
+  "pagesCDNAccess": true,
+  "answersIntegration": true,
+  "reverseProxy": false
+}

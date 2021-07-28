@@ -1,0 +1,13 @@
+{
+  "$id": "8706040304813673500",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "yext/answer": "Kyto wurde gegründet, um die Online\\-Präsenz kleiner und mittlerer Unternehmen zu optimieren und diese somit bei ihren globalen Exportaktivitäten zu unterstützen. Weiterhin gehören Agenturen und große Unternehmensgruppen zu unseren Kunden. Diese nutzen Kyto zur Verringerung ihres Verwaltungsaufwandes von mehreren Unterkonten bzw. Plattformen.",
+    "yext/name": "Wer kann KytoSync nutzen?",
+    "yext/question": "Wer kann KytoSync nutzen?"
+  },
+  "entityType": "yext/faq",
+  "folder": "yext/root",
+  "labels": []
+}

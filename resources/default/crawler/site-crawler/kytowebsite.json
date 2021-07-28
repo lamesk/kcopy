@@ -1,0 +1,12 @@
+{
+  "$id": "kytowebsite",
+  "$schema": "https://schema.yext.com/config/crawler/site-crawler/v1",
+  "name": "Kyto Website",
+  "enabled": true,
+  "crawlSchedule": "once",
+  "crawlStrategy": "subPages",
+  "domains": [
+    "https://www.kyto.de/blog/"
+  ],
+  "ignoreQueryParameterOption": "none"
+}

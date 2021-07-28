@@ -1,0 +1,13 @@
+{
+  "$id": "12674643",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "yext/description": "Frontend Software Developer, evolve frontend infrastructure and tooling, develop client-facing apps",
+    "yext/hiringOrganization": "IT",
+    "yext/landingPageUrl": "https://www.kyto.de/karriere/frontend-software-developer/",
+    "yext/name": "Frontend Software Developer"
+  },
+  "entityType": "yext/job",
+  "labels": []
+}

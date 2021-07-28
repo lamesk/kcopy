@@ -1,0 +1,13 @@
+{
+  "$id": "12674650",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "yext/description": "Regional Sales Manager (m/w/d) Süddeutschland, professioneller und persönlicher Verkauf, Beratung vor Ort, Angebotserstellung bis Abschluss",
+    "yext/hiringOrganization": "Sales",
+    "yext/landingPageUrl": "https://www.kyto.de/karriere/regional-sales-manager-sueddeutschland/",
+    "yext/name": "Regional Sales Manager Süddeutschland"
+  },
+  "entityType": "yext/job",
+  "labels": []
+}

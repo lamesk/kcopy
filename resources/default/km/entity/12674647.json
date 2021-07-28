@@ -1,0 +1,13 @@
+{
+  "$id": "12674647",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "yext/description": "critical interface to our customer-success team fully automate our data processes, make our software solution better",
+    "yext/hiringOrganization": "IT",
+    "yext/landingPageUrl": "https://www.kyto.de/karriere/working-student-web-automation-scripting-m-f-x/",
+    "yext/name": "Working Student Web Automation / Scripting"
+  },
+  "entityType": "yext/job",
+  "labels": []
+}

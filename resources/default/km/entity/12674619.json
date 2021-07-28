@@ -1,0 +1,38 @@
+{
+  "$id": "12674619",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "c_photo": {
+      "height": 425,
+      "sourceUrl": "https://www.kyto.de/wp-content/uploads/2021/06/Blog_Photo_9.png",
+      "thumbnails": [
+        {
+          "height": 425,
+          "url": "https://a.mktgcdn.com/p/VkzefW57MbA36RqV6kpCYDHYrPvXy7PRKvo8c96nVkI/502x425.png",
+          "width": 502
+        },
+        {
+          "height": 165,
+          "url": "https://a.mktgcdn.com/p/VkzefW57MbA36RqV6kpCYDHYrPvXy7PRKvo8c96nVkI/196x165.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/VkzefW57MbA36RqV6kpCYDHYrPvXy7PRKvo8c96nVkI/502x425.png",
+      "width": 502
+    },
+    "c_primaryCTA": {
+      "label": "Lesen Sie weiter",
+      "link": "https://www.kyto.de/blog/b2b-e-commerce-was-kmu-wissen-sollten/",
+      "linkType": "URL"
+    },
+    "yext/body": "E\\-Commerce ist nicht nur für B2C wichtig B2B E\\-Commerce – Was KMU wissen sollten Mit dem Wandel von Offline zu Online ändern Käufer ihr Verhalten – der Handel wird digital. Dieser Trend ist bereits seit Jahren im B2C\\-Sektor zu sehen und gewinnt immer mehr an Bedeutung im B2B\\-Bereich. Das Wachstum im B2B E\\-Commerce ist rasant und es wird geschätzt, dass der Wert dieses Marktes bis 2027 20,9 Billionen US Dollar erreicht (Intrado, 2020). Es stellen sich die Fragen, ob Konzepte aus dem B2C\\-Bereich einfach übernommen und auf dem B2B\\-Sektor übertragen werden können, wo der Unterschied zwischen beiden Bereichen liegt und welche Voraussetzungen erfüllt werden müssen, damit B2B\\-Anbieter sich aus diesem Trend einen Wettbewerbsvorteil verschaffen können. Published E\\-Commerce Woran liegt der Erfolg von B2B E\\-Commerce? Einer der wichtigsten Vorteile von E\\-Commerce, sowohl im B2C als auch im B2B, ist der bequeme Einkaufsprozess, der zu jeder Zeit und von jedem Ort erfolgen kann. Die zahlreichen Vergleichsmöglichkeiten geben Kunden die Möglichkeit, sich objektiv zu informieren und eine Entscheidung ohne zusätzlichen Aufwand zu treffen. Inwieweit ist B2B E\\-Commerce anders? Die Hauptdifferenz zwischen beiden Bereichen ergibt sich aus dem unterschiedlichen Kundenverhalten. Im B2C\\-Bereich sind die Preise fix, die Bestellmengen deutlich niedriger und die Abwicklung des Kaufs und der Lieferung erfolgt sehr standardisiert. Im Gegensatz dazu steht im B2B\\-Bereich das individuelle Bedürfnis des Kunden im Vordergrund. Um dies zu erfüllen, wird Schritt für Schritt mit dem Anbieter zusammengearbeitet. Das Hauptziel des B2B E\\-Commerce ist, die Wünsche des Kunden vor dem Kaufprozess genauer zu verstehen und ihm eine individuelle Lösung als Basis für die längerfristige Zusammenarbeit anzubieten. Merkmale des Einkaufprozesses im B2B E\\-Commerce Aus diesem Grund ergeben sich folgende Merkmale für B2B E\\-Commerce Händler: Der Kaufprozess ist durch eine ausführliche Informations\\- und Vergleichsrecherche gekennzeichnet. Preise variieren stark und sind von verschiedenen Rahmenbedingungen, wie z.B. die Bestellmenge und die genauen Kundenanforderungen abhängig. Der Prozess der Auslieferung ist viel komplexer, oft bedarfsgerecht und muss deswegen flexibel für den Kunden gestaltet werden. Der Prozess schießt nicht mit einem direkten Verkauf ab, sondern durch das geäußerte Interesse an einem Produkt oder einer Dienstleistung (Generierung eines Leads). E\\-Marketing: Herausforderung oder Chance für B2B\\-Unternehmen? Diese Komplexität im B2B\\-Bereich macht es schwierig für Unternehmen, selbständig ein erfolgreiches System für die Abwicklung eines Kaufprozesses einzurichten. Die Aufgabe übernehmen immer häufiger unabhängige B2B\\-Portale und ermöglichen dadurch eine effizientere Lösung, um E\\-Marketing und weitere Schritte erfolgreich abzuwickeln. Beispiele für Portale sind DirectIndustry , EUROPAGES , IndiaMart oder Industrystock . Einer der größten Vorteile der B2B\\-Plattformen besteht im Angebot von Funktionen, die das gezielte Suchverhalten der Käufer im B2B\\-Bereich unterstützen. Die Folge: Ein hohes Interesse beim Käufer, sich mit dem Anbieter in Verbindung zu setzen und zusätzliche Informationen anzufragen. Registrierte Lieferanten erhalten so hochwertige Inbound\\-Leads, welche vom Vertrieb einfach konvertiert werden können. Welche Bedeutung spielt B2B E\\-Commerce für KMU? Die Unternehmen, die am meisten von der starken Verbreitung von B2B E\\-Commerce profitieren, sind exportierende KMU. Durch die Verbreitung von internationalen B2B\\-Plattformen mit transparenten Suchfunktionen erscheinen deutsche KMU neben großen Produzenten aus Indien, China und den USA. Dadurch haben sie die Chance, weltweit neue Kunden für sich zu gewinnen, ohne zusätzlich in die Entwicklung von E\\-Commerce\\-Systemen zu investieren. Fazit: E\\-Commerce im B2B\\-Bereich lohnt sich speziell für KMU E\\-Commerce gewinnt mit der schnellen Technologieentwicklung immer mehr an Bedeutung und positioniert sich als ein wichtiger Vertriebskanal auch im B2B\\-Bereich. Unternehmen müssen diese Entwicklung als Chance nutzen, um ihre Kunden im Internet effizienter zu identifizieren und besser auf ihre Bedürfnisse im Vorverkaufsprozess eingehen zu können. Portalmarketing ermöglicht dabei erfolgreiches E Marketing im B2B\\-Bereich, ohne Programmieraufwände oder hohe Kosten. Profitieren Sie von unserem Experten\\-Wissen.",
+    "yext/description": "Der E-Commerce Sektor wächst im B2B Bereich. Für KMU ergeben sich dadurch neue Chancen, aber auch einige Risiken. Was Sie für Ihr Unternehmen wissen müssen.",
+    "yext/name": "B2B E-Commerce – Was KMU wissen sollten",
+    "yext/websiteUrl": {
+      "url": "https://www.kyto.de/blog/b2b-e-commerce-was-kmu-wissen-sollten/"
+    }
+  },
+  "entityType": "ce_blog",
+  "labels": []
+}

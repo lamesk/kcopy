@@ -1,0 +1,35 @@
+{
+  "$id": "ce_blog",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_blog",
+  "displayName": "Blog",
+  "presentationEntries": [
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "c_publishedDate1"
+        },
+        {
+          "id": "yext/name"
+        },
+        {
+          "id": "yext/description"
+        },
+        {
+          "id": "yext/entityId"
+        },
+        {
+          "id": "c_primaryCTA"
+        },
+        {
+          "id": "yext/websiteUrl"
+        },
+        {
+          "id": "yext/body"
+        }
+      ]
+    }
+  ]
+}

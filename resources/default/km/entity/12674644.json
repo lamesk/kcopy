@@ -1,0 +1,13 @@
+{
+  "$id": "12674644",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "yext/description": "PHP software developer, shaping a great software product",
+    "yext/hiringOrganization": "IT",
+    "yext/landingPageUrl": "https://www.kyto.de/karriere/php-software-developer/",
+    "yext/name": "PHP Software Developer"
+  },
+  "entityType": "yext/job",
+  "labels": []
+}

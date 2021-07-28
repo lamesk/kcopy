@@ -1,0 +1,13 @@
+{
+  "$id": "5093398271638331640",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "yext/answer": "Sie können Kyto jederzeit zum Ende einer jährlichen Abrechnungsperiode kündigen. Die Kündigungsfrist beträgt in der Regel drei Monate zum Vertragsende. Genauere Informationen entnehmen Sie bitte unseren AGB.",
+    "yext/name": "Wie kann ich Kyto kündigen?",
+    "yext/question": "Wie kann ich Kyto kündigen?"
+  },
+  "entityType": "yext/faq",
+  "folder": "yext/root",
+  "labels": []
+}

@@ -1,0 +1,147 @@
+{
+  "$id": "ce_fAQ",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "yext/faq",
+  "displayName": "FAQ",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "displayNameTranslations": [
+        {
+          "localeCode": "de",
+          "value": "Inhalt"
+        }
+      ],
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "displayNameTranslations": [
+        {
+          "localeCode": "de",
+          "value": "Grundlegende Informationen"
+        }
+      ],
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/question",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "yext/name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "yext/answer",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "yext/entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_primaryCTA"
+        }
+      ]
+    },
+    {
+      "displayName": "Media",
+      "displayNameTranslations": [
+        {
+          "localeCode": "de",
+          "value": "Medium"
+        }
+      ],
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/logo"
+        }
+      ]
+    },
+    {
+      "displayName": "Additional Attributes",
+      "displayNameTranslations": [
+        {
+          "localeCode": "de",
+          "value": "Weitere Attribute"
+        }
+      ],
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/keywords"
+        }
+      ]
+    },
+    {
+      "displayName": "Landing Pages",
+      "displayNameTranslations": [
+        {
+          "localeCode": "de",
+          "value": "Landingpages"
+        }
+      ],
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/landingPageUrl"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "displayNameTranslations": [
+        {
+          "localeCode": "de",
+          "value": "Sonstige"
+        }
+      ],
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "displayNameTranslations": [
+        {
+          "localeCode": "de",
+          "value": "Nur zur internen Verwendung"
+        }
+      ],
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/folder"
+        },
+        {
+          "id": "yext/labels"
+        },
+        {
+          "id": "yext/timezone"
+        }
+      ]
+    },
+    {
+      "displayName": "Settings",
+      "displayNameTranslations": [
+        {
+          "localeCode": "de",
+          "value": "Einstellungen"
+        }
+      ],
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Knowledge Assistant",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/primaryConversationContact"
+        },
+        {
+          "id": "yext/nudgeEnabled"
+        }
+      ]
+    }
+  ]
+}

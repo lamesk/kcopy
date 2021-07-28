@@ -1,0 +1,13 @@
+{
+  "$id": "8321405394656418849",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "yext/answer": "Die Nutzung von Kyto ist einfach und effizient: 1. Persönliche Beratung: Telefonische Beratung und Erfassung ihrer Bedürfnisse 2. Partnerauswahl: Vorschlag der für sie spezifischen B2B\\-Plattformen und Suchmaschinen 3. Einfache Dateneingabe: Einmalig Eingabe der Produkt\\- und Firmendaten über die Kyto Benutzeroberfläche 4. Synchronisierung: Automatische Aktualisierung aller Firmeneinträge 5. Service: Aggregierte Erfolgsstatistiken, Mailbox inkl. E\\-Mail\\-Weiterleitung \\\u0026 Spamfilter, Optimierung",
+    "yext/name": "Wie funktioniert KytoSync?",
+    "yext/question": "Wie funktioniert KytoSync?"
+  },
+  "entityType": "yext/faq",
+  "folder": "yext/root",
+  "labels": []
+}

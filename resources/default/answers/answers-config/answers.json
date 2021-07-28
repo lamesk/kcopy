@@ -1,0 +1,104 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "answers",
+  "name": "Answers",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "blogs": {
+      "entityTypes": [
+        "ce_blog"
+      ],
+      "name": "Blogs",
+      "searchableFields": {
+        "body": {
+          "textSearch": true
+        },
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "description": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "FAQs",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "question": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "jobs": {
+      "entityTypes": [
+        "job"
+      ],
+      "name": "Jobs",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true
+        },
+        "employmentType": {
+          "nlpFilter": true,
+          "textSearch": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    }
+  },
+  "synonyms": {
+    "oneWay": [],
+    "synonymSet": [
+      [
+        "jobs",
+        "karriere",
+        "arbeiten"
+      ]
+    ],
+    "normalization": []
+  },
+  "localizations": {},
+  "additionalSearchablePlaces": [],
+  "querySuggestions": {
+    "disablePopularQueries": false,
+    "popularQueriesBlacklistedTerms": [],
+    "universalPrompts": [
+      "Warum sollte ich Kyto nutzen?"
+    ],
+    "verticalPrompts": {
+      "faqs": [
+        "[[name]]"
+      ],
+      "jobs": [
+        "[[name]]"
+      ]
+    }
+  }
+}

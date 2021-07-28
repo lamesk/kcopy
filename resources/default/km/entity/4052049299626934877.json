@@ -1,0 +1,13 @@
+{
+  "$id": "4052049299626934877",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "yext/answer": "KytoSync bietet Ihnen einen kostenlosen Spam\\-Filter, sodass Sie nur valide Nachrichten erhalten.",
+    "yext/name": "Wie kann ich mich vor Spam-Nachrichten schützen?",
+    "yext/question": "Wie kann ich mich vor Spam-Nachrichten schützen?"
+  },
+  "entityType": "yext/faq",
+  "folder": "yext/root",
+  "labels": []
+}

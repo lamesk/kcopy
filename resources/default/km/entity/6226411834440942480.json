@@ -1,0 +1,13 @@
+{
+  "$id": "6226411834440942480",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "yext/answer": "Nein. Kyto wählt für Sie die relevanten Branchenportale aus. Außerdem können Sie über Kyto Ihre Firmen\\- und Produktdaten einfach und zentral verwalten, sodass für Sie jeglicher Aufwand minimiert wird. Mit Kyto haben Sie einen kompetenten Ansprechpartner an Ihrer Seite, mit dem Sie neue Absatzmärkte erschließen und somit Neukunden gewinnen.",
+    "yext/name": "Ist Kyto ein weiteres Branchenportal?",
+    "yext/question": "Ist Kyto ein weiteres Branchenportal?"
+  },
+  "entityType": "yext/faq",
+  "folder": "yext/root",
+  "labels": []
+}

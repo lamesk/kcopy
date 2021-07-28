@@ -1,0 +1,70 @@
+{
+  "$id": "blogConnectorCopy",
+  "$schema": "https://schema.yext.com/config/km/connector/v1",
+  "displayName": "BlogConnector (Copy)",
+  "entityType": "ce_blog",
+  "source": {
+    "sourceConfig": {
+      "crawlerConfig": {
+        "crawler": "kytowebsite",
+        "urlPatterns": [
+          "https://www.kyto.de/blog/*/"
+        ]
+      }
+    },
+    "selectors": [
+      {
+        "type": "PAGE_ID",
+        "header": "Page ID"
+      },
+      {
+        "type": "PAGE_URL",
+        "header": "Page URL"
+      },
+      {
+        "type": "PAGE_TITLE",
+        "header": "Page Title"
+      },
+      {
+        "type": "CLEANED_BODY",
+        "header": "Blog Text"
+      },
+      {
+        "type": "CSS",
+        "header": "Blog Title",
+        "path": "h1",
+        "mode": "ALL_TEXT"
+      }
+    ]
+  },
+  "mappings": [
+    {
+      "field": "yext/websiteUrl",
+      "header": "Page URL",
+      "subfieldPath": [
+        {
+          "name": "url"
+        }
+      ]
+    },
+    {
+      "field": "yext/name",
+      "header": "Blog Title",
+      "subfieldPath": []
+    },
+    {
+      "field": "yext/entityId",
+      "header": "Page ID",
+      "subfieldPath": []
+    },
+    {
+      "field": "yext/body",
+      "header": "Blog Text",
+      "subfieldPath": []
+    }
+  ],
+  "scheduleConfig": {
+    "useSourceSchedule": false,
+    "runMode": "DEFAULT"
+  }
+}

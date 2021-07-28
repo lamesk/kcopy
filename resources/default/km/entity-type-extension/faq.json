@@ -1,0 +1,12 @@
+{
+  "$id": "faq",
+  "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
+  "enabled": true,
+  "entityType": "yext/faq",
+  "field": [
+    {
+      "id": "c_primaryCTA",
+      "required": false
+    }
+  ]
+}

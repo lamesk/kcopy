@@ -1,0 +1,18 @@
+{
+  "$id": "phrasing-famine-backpedal-46e99",
+  "$schema": "https://schema.yext.com/config/pages/site-config/v1",
+  "siteName": "AnswersKyto",
+  "repoConfig": {
+    "targetRepoName": "${{answersKyto_targetRepo}}"
+  },
+  "domain": "answers.kyto.de",
+  "publishingConfig": {
+    "pinnedStagingBranchName": "refs/heads/master",
+    "pinnedProductionBranchName": "refs/heads/master",
+    "stagingCredentials": {
+      "username": "test",
+      "password": "test"
+    }
+  },
+  "features": []
+}

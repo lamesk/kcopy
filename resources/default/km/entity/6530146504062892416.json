@@ -1,0 +1,13 @@
+{
+  "$id": "6530146504062892416",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "yext/answer": "Kyto erstellt für Sie einen aggregierten Report, sodass die Evaluierung übersichtlich erfolgen kann und Sie alle Daten gesammelt abrufen können.",
+    "yext/name": "Bekomme ich von jeder ausgewählten Plattform einzelne Reports?",
+    "yext/question": "Bekomme ich von jeder ausgewählten Plattform einzelne Reports?"
+  },
+  "entityType": "yext/faq",
+  "folder": "yext/root",
+  "labels": []
+}

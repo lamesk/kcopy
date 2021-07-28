@@ -1,0 +1,13 @@
+{
+  "$id": "12674645",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "yext/description": "Customer Success Manager (m/w/d), erster Ansprechpartner für unsere Kunden, Aufbau einer langfristigen und nachhaltigen Kundenbeziehung",
+    "yext/hiringOrganization": "Customer Success",
+    "yext/landingPageUrl": "https://www.kyto.de/karriere/customer-success-manager/",
+    "yext/name": "Customer Success Manager"
+  },
+  "entityType": "yext/job",
+  "labels": []
+}

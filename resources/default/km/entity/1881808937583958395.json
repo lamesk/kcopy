@@ -1,0 +1,13 @@
+{
+  "$id": "1881808937583958395",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "yext/answer": "Es gibt weltweit über 1.500 Firmenverzeichnisse, Branchenportale und Suchmaschinen, welche sich in ihrem Fokus und ihrer Qualität stark unterscheiden. Wir kennen die Branchen\\- und Länderspezifischen Plattformen und Suchmaschinen, die Sie alle über Kyto buchen können. Weiterhin profitieren Sie von unserem starken Partnernetzwerk. Gerne beraten wir Sie bei der Auswahl.",
+    "yext/name": "Welche Firmenverzeichnisse und Branchenportale kann ich über KytoSync buchen und verwalten?",
+    "yext/question": "Welche Firmenverzeichnisse und Branchenportale kann ich über KytoSync buchen und verwalten?"
+  },
+  "entityType": "yext/faq",
+  "folder": "yext/root",
+  "labels": []
+}

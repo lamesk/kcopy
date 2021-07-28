@@ -1,0 +1,12 @@
+{
+  "$id": "kytojobs",
+  "$schema": "https://schema.yext.com/config/crawler/site-crawler/v1",
+  "name": "Kyto Jobs",
+  "enabled": true,
+  "crawlSchedule": "once",
+  "crawlStrategy": "subPages",
+  "domains": [
+    "https://www.kyto.de/karriere/"
+  ],
+  "ignoreQueryParameterOption": "none"
+}

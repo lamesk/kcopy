@@ -1,0 +1,13 @@
+{
+  "$id": "2257955339173024737",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "yext/answer": "Ja, Sie können Ihre bestehenden Plattformen und Verzeichnisse mit Kyto weiterhin nutzen. Der Vorteil für Sie besteht darin, dass Sie sich nicht mehr um jede einzelne Plattform kümmern müssen, sondern nur noch Kyto als Ansprechpartner haben. Wir übernehmen jeglichen Verwaltungs\\- und Synchronisationsaufwand für Sie.",
+    "yext/name": "Kann ich meine bestehenden B2B-Plattformen und Firmenverzeichnisse in KytoSync integrieren?",
+    "yext/question": "Kann ich meine bestehenden B2B-Plattformen und Firmenverzeichnisse in KytoSync integrieren?"
+  },
+  "entityType": "yext/faq",
+  "folder": "yext/root",
+  "labels": []
+}

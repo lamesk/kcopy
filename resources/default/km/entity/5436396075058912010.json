@@ -1,0 +1,13 @@
+{
+  "$id": "5436396075058912010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "yext/answer": "Um Ihre Daten bei allen Verzeichnissen zu synchronisieren, genügt es, Veränderungen über KytoSync vorzunehmen. Somit wird Ihr Synchronisationsaufwand minimiert.",
+    "yext/name": "Wie kann ich meine Daten aktualisieren?",
+    "yext/question": "Wie kann ich meine Daten aktualisieren?"
+  },
+  "entityType": "yext/faq",
+  "folder": "yext/root",
+  "labels": []
+}

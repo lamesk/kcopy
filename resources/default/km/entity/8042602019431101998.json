@@ -1,0 +1,31 @@
+{
+  "$id": "8042602019431101998",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "c_primaryCTA": {
+      "label": "Mehr Erfahren",
+      "link": "https://www.kyto.de/platform-engine/",
+      "linkType": "OTHER"
+    },
+    "yext/answer": "Kyto optimiert Ihre globale Online\\-Präsenz und verhilft Ihnen zu mehr internationalen Kunden. Durch gezielte Einträge in B2B\\-Plattformen und Firmenverzeichnissen, sowie durch spezifisches Suchmaschinenmarketing, sorgen wir dafür, dass Ihr Unternehmen global gefunden wird. Weiterhin können Sie mit Kyto alle bestehenden und neuen B2B\\-Plattformen verwalten und Ihre Produkt\\- und Firmendaten einfach aktualisieren. Somit verringern Sie Ihren Verwaltungsaufwand um bis zu 90%.",
+    "yext/name": "Warum sollte ich KytoSync nutzen?",
+    "yext/question": "Warum sollte ich KytoSync nutzen?"
+  },
+  "entityType": "yext/faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "en_DE",
+      "content": {
+        "c_primaryCTA": {
+          "label": "Learn more",
+          "link": "https://www.kyto.com/platform-engine/",
+          "linkType": "URL"
+        },
+        "yext/name": "Why should I use KytoSync?",
+        "yext/question": "Why should I use KytoSync?"
+      }
+    }
+  ]
+}

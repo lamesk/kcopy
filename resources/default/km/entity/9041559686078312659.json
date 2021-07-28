@@ -1,0 +1,13 @@
+{
+  "$id": "9041559686078312659",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "yext/answer": "Kundenanfragen per E\\-Mail werden in Ihrem Kundenkonto gespeichert. Dort befinden sich alle gesammelten Anfragen, sodass Sie nicht den Überblick verlieren. Weiterhin können Sie eine Weiterleitung auf verschiedene Adressen aktivieren. Ein Spam\\-Filter ist selbstverständlich integriert.",
+    "yext/name": "Wie kann ich die Kundenanfragen der verschiedenen Plattformen verwalten?",
+    "yext/question": "Wie kann ich die Kundenanfragen der verschiedenen Plattformen verwalten?"
+  },
+  "entityType": "yext/faq",
+  "folder": "yext/root",
+  "labels": []
+}

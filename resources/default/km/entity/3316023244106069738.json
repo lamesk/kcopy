@@ -1,0 +1,13 @@
+{
+  "$id": "3316023244106069738",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "yext/answer": "Jedes Unternehmen hat spezielle Bedürfnisse. Deshalb stimmen wir unsere Partnerauswahl speziell auf Ihre Branche, sowie Ihre Zielländer ab. Somit können wir unseren Kunden ein zielgruppengenaues Listing ermöglichen. Weiterhin achten wir bei der Auswahl der Partner auf deren Seriosität, Qualität und globale Präsenz.",
+    "yext/name": "Nach welchen Kriterien wählt Kyto die Portale aus?",
+    "yext/question": "Nach welchen Kriterien wählt Kyto die Portale aus?"
+  },
+  "entityType": "yext/faq",
+  "folder": "yext/root",
+  "labels": []
+}

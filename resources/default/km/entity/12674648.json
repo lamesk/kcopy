@@ -1,0 +1,13 @@
+{
+  "$id": "12674648",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "yext/description": "Terminierung (m/w/d), Terminierung von Präsentationsterminen für deine Kollegen im Außendienst, Bindeglied zwischen unseren Kunden und Mitarbeitern",
+    "yext/hiringOrganization": "Sales",
+    "yext/landingPageUrl": "https://www.kyto.de/karriere/4041/",
+    "yext/name": "Terminierung"
+  },
+  "entityType": "yext/job",
+  "labels": []
+}
